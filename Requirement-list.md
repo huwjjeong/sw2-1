@@ -1,4 +1,4 @@
-54790226
+54790
 Github 주소 : https://github.com/huwjjeong/sw2-1.git
 
 
