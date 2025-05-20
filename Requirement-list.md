@@ -1,3 +1,7 @@
+54790226
+Github 주소 : https://github.com/huwjjeong/sw2-1.git
+
+
 |No. |Requirement                         |Use case(s)                   |
 |--- |---                                 |---                           |
 |1| 비회원은 ID, 비밀번호, 전화번호를 입력하여 회원가입하고 시스템을 이용할 수 있다.|회원가입|
